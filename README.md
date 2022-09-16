@@ -37,4 +37,6 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 ### Colour Scheme (*)
 - There will be four many colours used throughout the site I have picked these based on a simple colour flow that has a slight pop to draw attention to important factors of the site e.g Nav Bar and contact page. (See screenshot below of colours used)
 
-![](/workspace/P1_PortfolioSite/images/ColoursForSite.PNG)
+ ![](images/ColoursForSite.PNG)
+
+ - The whole site will also only be a single page site, with a simple title at the top followed by my work, which will be clickable using JS Lightbox (will go into more details in the technologies used section) and finally with a contact form at the bottom.
