@@ -52,3 +52,5 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 ## Wireframe 
 
 See below for wireframe layout of site using Balsmiq, with a mobile first design as well as desktop layout. 
+
+![](images/WireFrame.png)
