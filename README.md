@@ -44,7 +44,11 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 #383D3B 
 
 #7C7C7C
-- Adam note, colour code
+- Adam note - colour code for future references
 
  ### Imagery 
  - All imagery used will be of my own work. 
+ 
+## Wireframe 
+
+See below for wireframe layout of site using Balsmiq, with a mobile first design as well as desktop layout. 
