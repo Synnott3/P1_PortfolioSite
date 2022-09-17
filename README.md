@@ -11,7 +11,7 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 
 ### User Stories 
 
-#### First Time Visitor Goals (*)
+#### First Time Visitor Goals 
 
 - It would be set up so that potential employers could see my work at a glance.
 - It would become a show case of my best work, and not just a backlog of work.
@@ -19,14 +19,14 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 - Also for first time vistors it would become a testimonial of my work as well as proof of my ability.
 - Become an online business card for contact and bookings with pass or future clients.
 
-#### Returning Visitor Goals (*)
+#### Returning Visitor Goals 
 
 - For employers to see that I have kept up my work and skills that have improved over the years.
 - For a followering of people who may enjoy my photography as well as my future coding work a place for them to see how my work has changede and evolved over the years.
 - A place for passed clients to be able to contact me for future work.
 - A hub of communications for on going work.
 
-#### Frequent User Goals (*)
+#### Frequent User Goals 
 - Frequent users goals with this site would mainly be a place for clients to be able to come by for more work in the future, or updates on current work.
 - To see how my skills and projects are working both finished and ongoing.
 - If in a job hiring stage it may be a good point of references that may put me ahead of other hirers also going for the same job.
@@ -34,9 +34,17 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 
 ## Design
 
-### Colour Scheme (*)
+### Colour Scheme 
 - There will be four many colours used throughout the site I have picked these based on a simple colour flow that has a slight pop to draw attention to important factors of the site e.g Nav Bar and contact page. (See screenshot below of colours used)
 
  ![](images/ColoursForSite.PNG)
 
  - The whole site will also only be a single page site, with a simple title at the top followed by my work, which will be clickable using JS Lightbox (will go into more details in the technologies used section) and finally with a contact form at the bottom.
+
+#383D3B 
+
+#7C7C7C
+- Adam note, colour code
+
+ ### Imagery 
+ - All imagery used will be of my own work. 
