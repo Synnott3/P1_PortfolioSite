@@ -2,7 +2,7 @@
 
 [View the live project here.]()
 
-This will be the foundation of a future portfilo site that I will be using to host and display future coding projects, along side passed photography work, in this example and for P1 it will be just the photography work, using HTML, CSS as well as some JavaSCript libraries. 
+This will be the foundation of a future portfilo site that I will be using to host and display future coding projects, along side passed photography work, in this example and for P1 it will be just the photography work, using HTML, CSS as well as some JavaScript libraries. 
 
 This will be a one page site, with a fixed colour palette throughout the site, that using bootstrape framework it will be fully reactive on all screen szies and devices.
 
