@@ -11,7 +11,9 @@ body{
 
 }
 
-
+hr {
+    color: #eee5e9;
+}
 
 
 /*---Jumbotron-----*/
@@ -35,18 +37,55 @@ body{
     color: #eee5e9;
   }
 
-/*---Footer-----*/
-.footer {
+
+
+
+  /*---JavaScript Gallery-----*/
+.photo-gallery {
     font-family: Raleway, sans-serif;
-    background: #eee5e9;
-    margin: auto;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    padding-bottom:10px;
-    color: #fff;
+    color: #eee5e9;
+    background-color: #7E7E7E;
+  }
+  
+  .photo-gallery p {
+    font-family: Raleway, sans-serif;
+    color: #eee5e9;
+  }
+  
+  .photo-gallery h2 {
+  margin-bottom: 25px;
+      padding-top: 25px;
+      font-size: 24px;
     
   }
+  
+  @media (min-width:767px) {
+    .photo-gallery h2 {
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: inherit;
+    }
+  }
+  
+  .photo-gallery .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto 40px;
+  }
+  
+  .photo-gallery .intro p {
+    margin-bottom: 0;
+  }
+  
+  .photo-gallery .photos {
+    padding-bottom: 20px;
+  }
+  
+  .photo-gallery .item {
+    padding-bottom: 30px;
+  }
+  
 
   /*---Form Button-----*/
 .btn {
@@ -67,4 +106,18 @@ body{
     background-color: #7c7c7c;
     transition: 0.4s;
     opacity: 1;
+  }
+
+
+  /*---Footer-----*/
+.footer {
+    font-family: Raleway, sans-serif;
+    background: #eee5e9;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom:10px;
+    color: #fff;
+    
   }
