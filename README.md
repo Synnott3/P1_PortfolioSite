@@ -41,13 +41,12 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 
  - The whole site will also only be a single page site, with a simple title at the top followed by my work, which will be clickable using JS Lightbox (will go into more details in the technologies used section) and finally with a contact form at the bottom.
 
-#383D3B 
-
-#7C7C7C
-- Adam note - colour code for future references
+### Typography
+- There will be one front throughout the site and that will be the google railroad font at 300 weight so very light and easy on the eyes for phone disply but won't take away from the gallery which is the main focus. 
 
  ### Imagery 
  - All imagery used will be of my own work. 
+ - It is set up in such a way that images and work can be added very easily in time and always kept up to date.
  
 ## Wireframe 
 
@@ -56,4 +55,35 @@ See below for wireframe layout of site using Balsmiq, with a mobile first design
 ![](Images-For-ReadMe/WireFrame.png)
 
 
-# Note to Adam about BootStrap being used as well as JS plugins for images
+# Feature
+- Responsive on all device sizes
+- interative elements, such as pressing on an image will blow it up to a bigger more  detailed size for viewing.
+- Soon to be working for form page for contact.
+
+# Technologies Used
+
+## Languages Used
+- HTML 5
+- CSS 
+- JavaScript 
+
+## FrameWorks and Libraries 
+- [BootStrap 5.2](https://getbootstrap.com/)
+This was used for a responsive  framework as well as buttons and features build in and styling aspects.
+- [Google Fonts](https://fonts.google.com/specimen/Raleway?query=Raleway)
+I used the above google font in my site for a simple flow that was easy to read but wouldn't take away from the work.
+- JQuery - This was used within bootstrap for the navbar and some elements.
+- [Git](https://github.com/Synnott3/P1_PortfolioSite)
+Git was used for version control and utilized within in Gitpod to commit and push to Github
+- [Github](https://github.com/Synnott3/P1_PortfolioSite)
+Github was used to store my projects code after being pushed from git.
+- [GitPages](https://synnott3.github.io/P1_PortfolioSite/)
+This was used to host my site so it could be viewed in a URL.
+- [JavaScirpt Lightbox](https://epicbootstrap.com/snippets/lightbox-gallery)
+This was used to help the images pop and be stored in a neat gallery for future updates.
+- [Balsamiq](https://balsamiq.com/)
+This was used to create the wireframe for the project before coding.
+
+# Testing
+- [Screen Recording of site](https://drive.google.com/file/d/1xyVGVHQOuCLOxWIhDNSV6z6fyPLIuSYq/view?usp=sharing)
+This is a screen recording of the site working on an Iphone XR
