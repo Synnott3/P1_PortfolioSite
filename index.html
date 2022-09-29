@@ -17,10 +17,11 @@
 
 </head>
 <body>
-<!--Nav Bar-->
-<nav  class="navbar navbar-dark ">
+<!--Nav Bar fixed top so it follows the user-->
+<nav  class="navbar navbar-dark fixed-top">
     <div class="container">
         <a href="#" class="navbar-brand" id="BtnNav">Adam Synnott</a>
+        <!--Collapse button for icon-->
             <button id="BtnNav" class="navbar-toggler-icon" data-bs-toggle="collapse"
                 data-bs-target="#nav" aria-controls="nav" aria-label="Expand Navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -62,6 +63,7 @@
                 <h2 class="text-center">Gallery</h2>
                 <p class="text-center">A collection of portrait and landscape photography</p>
             </div>
+            <!--Images that expand when clicked on-->
             <div class="row photos">
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/background.jpg" data-lightbox="photos"><img
                     class="img-fluid" src="images/background.jpg"></a></div>
@@ -114,14 +116,11 @@
         <div class="container" id="contact">
             <section class="mb-4">
                 <h2 class="h1 my-4">Contact Me</h2>
-                <!--Section description-->
+                <!--Validation needs fixing-->
                 <div class="row">
-                    <!--Grid column-->
                     <div class="col-md-9 mb-md-0 mb-5">
                         <form novalidate method="POST">
-                            <!--Grid row-->
                             <div class="row">
-                                <!--Grid column-->
                                 <div class="col-md-6">
                                     <div class="md-form mb-0">
                                         <input type="text" id="name" name="name" class="form-control"
@@ -129,10 +128,9 @@
                                         <label for="name">Your name</label>
                                     </div>
                                 </div>
-                                <!--Grid column-->
-                                <!--Grid column-->
                                 <div class="col-md-6">
                                     <div class="md-form mb-0">
+                                        <!--Email Section and validation-->
                                         <input type="text" id="email" name="email" class="form-control"
                                         placeholder="Place email here" required>
                                         <label for="email">Your email</label>
@@ -140,12 +138,11 @@
                                         <div class="valid-feedback">Correct email</div>
                                     </div>
                                 </div>
-                                <!--Grid column-->
+                            
                             </div>
-                            <!--Grid row-->
-                            <!--Grid row-->
+                            
                             <div class="row">
-                                <!--Grid column-->
+                            <!--Message Section-->
                                 <div class="col-md-12">
                                     <div class="md-form">
                                         <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
@@ -156,6 +153,7 @@
                             <!--Grid row-->
                         </form>
                             <!--JS for form validation-->
+                            <!--needs fixing, tried to add to much-->
                         <script>
                             const form = document.querySelector("form")
 
@@ -173,7 +171,7 @@
                         </div>
                         <div class="status"></div>
                     </div>
-                    <!--Grid column-->
+
     
                 </div>
         </div>
