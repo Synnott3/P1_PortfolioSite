@@ -30,13 +30,13 @@ hr {
 .jumbotron {
     background: transparent;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 40px;
   }
   
   
   h1 {
     font-family: Raleway, sans-serif;
-    padding-top: 3%;
+    padding-top: 8%;
     font-size: 6.5em;
     color: #92dce5;
   }
