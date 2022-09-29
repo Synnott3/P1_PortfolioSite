@@ -27,8 +27,8 @@ hr {
   h1 {
     font-family: Raleway, sans-serif;
     padding-top: 1%;
-    font-size: 6.3em;
-    color: #eee5e9;
+    font-size: 6.5em;
+    color: #92dce5;
   }
   
   .jumbotron p {
@@ -43,7 +43,7 @@ hr {
   /*---JavaScript Gallery-----*/
 .photo-gallery {
     font-family: Raleway, sans-serif;
-    color: #eee5e9;
+    color: #92dce5;
     background-color: #7E7E7E;
   }
   
@@ -112,12 +112,12 @@ hr {
   /*---Footer-----*/
 .footer {
     font-family: Raleway, sans-serif;
-    background: #eee5e9;
+    background: #92dce5;
     margin: auto;
-    padding: 20px;
+    padding: 6px;
     text-align: center;
     text-decoration: none;
-    padding-bottom:10px;
-    color: #fff;
+    padding-bottom:2px;
+    color: #eee5e9;
     
   }
