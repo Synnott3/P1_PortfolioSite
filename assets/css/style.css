@@ -15,6 +15,10 @@ hr {
     color: #eee5e9;
 }
 
+.navbar-dark {
+    background: #92dce5;
+    color:#eee5e9;
+}
 
 /*---Jumbotron-----*/
 .jumbotron {
@@ -26,7 +30,7 @@ hr {
   
   h1 {
     font-family: Raleway, sans-serif;
-    padding-top: 1%;
+    padding-top: 3%;
     font-size: 6.5em;
     color: #92dce5;
   }
@@ -53,7 +57,7 @@ hr {
   }
   
   .photo-gallery h2 {
-  margin-bottom: 25px;
+      margin-bottom: 25px;
       padding-top: 25px;
       font-size: 24px;
     
