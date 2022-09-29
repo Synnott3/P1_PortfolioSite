@@ -87,3 +87,55 @@ This was used to create the wireframe for the project before coding.
 # Testing
 - [Screen Recording of site](https://drive.google.com/file/d/1xyVGVHQOuCLOxWIhDNSV6z6fyPLIuSYq/view?usp=sharing)
 This is a screen recording of the site working on an Iphone XR
+
+## Testing User Stories from User Experience (UX) Section
+
+### First Time Visitor
+- A simple site that has everything set out for ease of access and use.
+- The images are on disply so that you can see everything at once and it is interative.
+- The navbar fixed will allow ease of navigation to move between the site as I add more work it will be easier to know where you are.
+- Completes its task as an online business card with live work.
+
+### Returning Goals
+- This site would be always updated with my lastest work.
+- Able to be contacted on the site easly by the end user.
+- Returning vistors will be aware of the new work as it will be top of the page and oldest at the bottom.
+
+### Frequent User Goals
+- Returning clients can see my work as well as work I've completed by them and be able to add Testimonials
+- Able to share work with other photograpers/developers 
+- For them to see new works/styles I'll be doing and trying.
+
+# Futher Testing
+- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+- This Website was also viewed on many devices such as desktops, laptops Iphones and Andriods.
+- Screen recording done on IphoneXR
+- Friends asked to review the site and test it and report back any bugs found.
+
+# Known Bug
+- Only known bug at the time of testing, is the form validation and also inbox the question is sent to. - Will be fixed.
+
+# Deploment
+## GitHub Pages
+The project was deployed on Github pages - Follow the steps below.
+- Log into Github and find the correct Repository
+- Go to settings and look for the Code and automation section on the right hand side..
+- Go to the Pages section 
+- Click onto it and look for Build and deployment
+- Head to Branch - point it to main and click Save
+- It will take up to 10 minutes for the site to go live, and a link will show in the Pages section.
+
+# Credits 
+- [BootStrap 5.2](https://getbootstrap.com/) This was used for the framework
+- [BootStrap Youtube Tut](https://www.youtube.com/watch?v=Jyvffr3aCp0&ab_channel=WebDevSimplified) This video was used to understand bootstrap
+and  for setting up the code and helping with any problems I may have.
+- [LightBox Js](https://epicbootstrap.com/snippets/lightbox-gallery)
+This was used for the gallery section of the site.
+
+# Media 
+- All images are mine.
+
+# Achknowledgements 
+- Code Institute for support during the progress.
+- Mentors continous feedback.
+
