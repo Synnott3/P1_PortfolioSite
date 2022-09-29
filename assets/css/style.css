@@ -7,24 +7,38 @@
 }
 
 body{
-    background-color: #7c7c7c;
+    background-color: #7E7E7E;
 
 }
 
 
-header{
-    background-color: #92dce5;
-}
 
-h1{
+
+/*---Jumbotron-----*/
+.jumbotron {
+    background: transparent;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  
+  h1 {
     font-family: Raleway, sans-serif;
-}
-
+    padding-top: 1%;
+    font-size: 6.3em;
+    color: #eee5e9;
+  }
+  
+  .jumbotron p {
+    font-family: Raleway, sans-serif;
+    font-size: 1.5em;
+    color: #eee5e9;
+  }
 
 /*---Footer-----*/
 .footer {
     font-family: Raleway, sans-serif;
-    background: #92dce5;
+    background: #eee5e9;
     margin: auto;
     padding: 20px;
     text-align: center;
@@ -38,14 +52,14 @@ h1{
 .btn {
     font-family: Raleway, sans-serif;
     color: #fff;
-    background-color: #92dce5;
+    background-color: #eee5e9;
     float: left;
   }
   
   
   #contact{
     font-family: Raleway, sans-serif;
-    color: #92dce5;
+    color: #eee5e9;
   }
   
   
