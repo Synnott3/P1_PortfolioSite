@@ -20,6 +20,12 @@ hr {
     color:#eee5e9;
 }
 
+#BtnNav{
+    background-color: #92dce5;
+    color: #eee5e9;
+    font-family: Raleway, sans-serif;
+}
+
 /*---Jumbotron-----*/
 .jumbotron {
     background: transparent;
