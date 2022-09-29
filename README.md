@@ -1,6 +1,6 @@
 <h1 align="center">P1 - Portolio Site For AdamSynnott.com</h1>
 
-[View the live project here.]()
+[View the live project here.](https://synnott3.github.io/P1_PortfolioSite/)
 
 This will be the foundation of a future portfilo site that I will be using to host and display future coding projects, along side passed photography work, in this example and for P1 it will be just the photography work, using HTML, CSS as well as some JavaScript libraries. 
 
