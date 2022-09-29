@@ -6,7 +6,7 @@ This will be the foundation of a future portfilo site that I will be using to ho
 
 This will be a one page site, with a fixed colour palette throughout the site, that using bootstrape framework it will be fully reactive on all screen szies and devices.
 
-![](Images-For-ReadMe/synnott3.github.io_P1_PortfolioSite_(iPhone 12 Pro).png)
+ ![](Images-For-ReadMe/MobileSite.png)
 
 ## User Experience (UX)
 
