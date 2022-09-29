@@ -14,12 +14,12 @@ body{
 hr {
     color: #eee5e9;
 }
-
+/*---Nav Bar-----*/
 .navbar-dark {
     background: #92dce5;
     color:#eee5e9;
 }
-
+/*---Nav Button style-----*/
 #BtnNav{
     background-color: #92dce5;
     color: #eee5e9;
@@ -105,7 +105,7 @@ hr {
     float: left;
   }
   
-  
+  /*---Contact Section-----*/
   #contact{
     font-family: Raleway, sans-serif;
     color: #eee5e9;
