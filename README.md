@@ -6,7 +6,7 @@ This will be the foundation of a future portfilo site that I will be using to ho
 
 This will be a one page site, with a fixed colour palette throughout the site, that using bootstrape framework it will be fully reactive on all screen szies and devices.
 
- ![](docs/MobileSite.png)
+ ![](assets/docs/MobileSite.png)
 
 ## User Experience (UX)
 
@@ -38,7 +38,7 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 ### Colour Scheme 
 - There will be four many colours used throughout the site I have picked these based on a simple colour flow that has a slight pop to draw attention to important factors of the site e.g Nav Bar and contact page. (See screenshot below of colours used)
 
- ![](docs/ColoursForSite.PNG)
+ ![](assets/docs/ColoursForSite.PNG)
 
  - The whole site will also only be a single page site, with a simple title at the top followed by my work, which will be clickable using JS Lightbox (will go into more details in the technologies used section) and finally with a contact form at the bottom.
 
@@ -53,7 +53,7 @@ This will be a one page site, with a fixed colour palette throughout the site, t
 
 See below for wireframe layout of site using Balsmiq, with a mobile first design as well as desktop layout. 
 
-![](docs/WireFrame.png)
+![](assets/docs/WireFrame.png)
 
 
 # Feature
@@ -91,10 +91,10 @@ This was used to create the wireframe for the project before coding.
 - [Screen Recording of site on Mobile](https://drive.google.com/file/d/1w7FzXGyrSgtTRF84SZCdOZxC7SLZY_Qr/view?usp=sharing)
 This is a screen recording of the site working on an Iphone XR
 - [HTML Validation](https://validator.w3.org/#validate_by_input) See results below.
-![](docs/htmlValidator.PNG)
+![](assets/docs/htmlValidator.PNG)
 - [CSS Validation](https://jigsaw.w3.org/css-validator/) See results below.
 
-![](docs/cssValidtor.PNG)
+![](assets/docs/cssValidtor.PNG)
 
 ## Testing User Stories from User Experience (UX) Section
 
