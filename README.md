@@ -162,4 +162,5 @@ This was used for the gallery section of the site.
 # Achknowledgements 
 - Code Institute for support during the progress.
 - Mentors continous feedback.
+- StackOverflow for many questions and answers.
 
