@@ -97,7 +97,7 @@ hr {
   /*---Form Button-----*/
 .btn {
     font-family: Raleway, sans-serif;
-    color: #7E7E7E;
+    color: #eee5e9;
     background-color: #92dce5;
     float: left;
   }
@@ -110,6 +110,7 @@ hr {
   
   
   .btn:hover {
+    color: #eee5e9;
     background-color: #7c7c7c;
     transition: 0.4s;
     opacity: 1;
