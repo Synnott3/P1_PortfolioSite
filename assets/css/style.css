@@ -19,7 +19,7 @@ hr {
     color:#eee5e9;
 }
 /*---Nav Button style-----*/
-#BtnNav{
+.btnnav{
     background-color: #92dce5;
     color: #eee5e9;
     font-family: Raleway, sans-serif;
@@ -45,8 +45,6 @@ hr {
     font-size: 1.5em;
     color: #eee5e9;
   }
-
-
 
 
   /*---JavaScript Gallery-----*/
