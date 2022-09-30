@@ -1,4 +1,4 @@
-<h1 align="center">P1 - Portolio Site For AdamSynnott.com</h1>
+<h1 align="center">P1 - Portfolio Site For AdamSynnott.com</h1>
 
 [View the live project here.](https://synnott3.github.io/P1_PortfolioSite/)
 
